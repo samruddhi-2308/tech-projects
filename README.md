@@ -16,4 +16,4 @@ This repository contains a collection of my technical projects built using core 
 - Core Java (OOP, File I/O)
 - Python (Scripting, CLI tools)
 - Git & GitHub
-# tech-projects
+
