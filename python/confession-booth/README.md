@@ -8,7 +8,7 @@ A quirky terminal app that lets you type your "confessions" anonymously. They're
 - Stores everything locally, safely
 
 ## Run It
-bash
+on cmd:
 python confession_booth.py
 
 
