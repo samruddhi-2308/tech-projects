@@ -8,7 +8,8 @@ This repository contains a collection of my technical projects built using core 
 - [TaskWise – Smart CLI Productivity Tracker](java/TaskWise)
 
 ### Python
-- [Terminal Confession Booth](https://github.com/samruddhi-2308/tech-projects/blob/main/python/confession_booth.py)
+- [Terminal Confession Booth](https://github.com/samruddhi-2308/tech-projects/blob/main/python/confession-booth)
+- [Spotify Data Analysis](https://github.com/samruddhi-2308/tech-projects/blob/main/python/spotify-analysis)
 
 ---
 
