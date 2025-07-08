@@ -53,4 +53,4 @@ Download your spotify data from your account and paste the path in the notebook 
 ![Hourly Listening](listening_by_hour.png)
 
 ### 🕒 Listening Time by Day of Week
-![Day Listening](listening_by_week.png)
+![Day Listening](listening-by-week.png)
