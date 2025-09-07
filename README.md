@@ -17,7 +17,7 @@ This repository contains a collection of my technical projects built using core 
 ---
 
 ## 🔧 Tech Stack
-- Core Java (OOP, File I/O)
+- Core Java (OOP, File I/O) as well as Android Java Backend
 - Python (Scripting, CLI tools, ML, Data Analysis)
-- Git & GitHub, Jupyter Notebook
+- Git & GitHub, Jupyter Notebook, android Studio
 
