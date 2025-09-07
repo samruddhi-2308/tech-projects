@@ -1,69 +1,44 @@
-# React + TypeScript + Vite
+# React Todo App with Tailwind & Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, professional To-Do app built with **React, TypeScript, Tailwind CSS, and Framer Motion**, designed to showcase clean UI/UX, animations, and dark mode support.
 
-Currently, two official plugins are available:
+This project demonstrates how a simple productivity app can be elevated with polished design, interactive elements, and enterprise-ready code structure.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- **Add / Remove Tasks** – Quickly manage your daily tasks.
+- **Professional UI/UX** – Glassmorphism card design, gradient backgrounds, subtle hover effects.
+- **Dark Mode Toggle** – Switch between light and dark themes seamlessly.
+- **Animations** – Smooth task addition and removal using Framer Motion.
+- **Responsive Design** – Looks great on desktop and mobile.
+- **Task Counter** – Dynamic pending tasks display at the bottom.
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+## Tech Stack
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- **React 18** + **TypeScript**
+- **Tailwind CSS** for modern styling and responsive layouts
+- **Framer Motion** for smooth animations
+- **Lucide React Icons** for clean, modern icons
+- **Vite** for fast development & build
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Installation
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+1. Clone the repository:
+git clone https://github.com/samruddhi-2308/tech-projects.git
+
+2. Navigate to the project folder:
+cd tech-projects/react/todo-app
+
+3. Install dependencies:
+npm install
+
+4. Run the development server:
+npm run dev
+
+Open the app in your browser at http://localhost:5173/
