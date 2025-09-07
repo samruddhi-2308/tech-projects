@@ -11,10 +11,13 @@ This repository contains a collection of my technical projects built using core 
 - [Terminal Confession Booth](https://github.com/samruddhi-2308/tech-projects/blob/main/python/confession-booth)
 - [Spotify Data Analysis](https://github.com/samruddhi-2308/tech-projects/blob/main/python/spotify-analysis)
 
+### React
+- [To do list](https://github.com/samruddhi-2308/tech-projects/tree/main/react/todo-app)
+
 ---
 
 ## 🔧 Tech Stack
 - Core Java (OOP, File I/O)
 - Python (Scripting, CLI tools, ML, Data Analysis)
-- Git & GitHub
+- Git & GitHub, Jupyter Notebook
 
