@@ -15,6 +15,6 @@ This repository contains a collection of my technical projects built using core 
 
 ## 🔧 Tech Stack
 - Core Java (OOP, File I/O)
-- Python (Scripting, CLI tools)
+- Python (Scripting, CLI tools, ML, Data Analysis)
 - Git & GitHub
 
